@@ -12,7 +12,6 @@ ro.secure=0
 ro.adb.secure=0
 
 #ICJ rom info
-ro.icj.version=V3.3.X
 ro.icj.dev=LorD ClockaN
 ro.icj.kernel=n3ocort3x
 ro.icj.themer=TUN_SD
